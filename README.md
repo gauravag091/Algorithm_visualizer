@@ -15,7 +15,7 @@ Algorithm Visualizer is a web application that simplifies intricate algorithms b
 
 ## Usage
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/gauravag091/Algorithm_visualizer.git`
 2. Open `Project.html` in your browser to start using the Algorithm Visualizer.
 
 ## How to Contribute
